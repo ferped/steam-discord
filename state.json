@@ -3643,7 +3643,7 @@
         "firstPlayPosted": false
       },
       "4078430": {
-        "playtime": 5,
+        "playtime": 35,
         "name": "STAR WARS: Galactic Racer™",
         "firstPlayPosted": true
       },
@@ -3654,8 +3654,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 5,
-    "weeklyTotal": 387150,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 387180,
     "weeklyTopGame": "The Witcher 2: Assassins of Kings Enhanced Edition",
     "newGames": 0
   },
@@ -7410,7 +7410,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 36039,
+        "playtime": 36063,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -7846,8 +7846,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 40,
-    "weeklyTotal": 432895,
+    "weeklyMinutes": 24,
+    "weeklyTotal": 432919,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9194,7 +9194,7 @@
         "firstPlayPosted": false
       },
       "1091500": {
-        "playtime": 4568,
+        "playtime": 4578,
         "name": "Cyberpunk 2077",
         "firstPlayPosted": false
       },
@@ -9820,8 +9820,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 20,
-    "weeklyTotal": 154112,
+    "weeklyMinutes": 10,
+    "weeklyTotal": 154122,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
   },
