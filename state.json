@@ -3653,14 +3653,14 @@
         "firstPlayPosted": false
       },
       "5088440": {
-        "playtime": 271,
+        "playtime": 301,
         "name": "Rip It! Card Collector",
         "firstPlayPosted": true
       }
     },
     "level": 20,
-    "weeklyMinutes": 1,
-    "weeklyTotal": 387497,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 387527,
     "weeklyTopGame": "Rip It! Card Collector",
     "newGames": 0
   },
@@ -7415,7 +7415,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 36181,
+        "playtime": 36211,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -7851,8 +7851,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 433037,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 433067,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9825,7 +9825,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 19,
+    "weeklyMinutes": 0,
     "weeklyTotal": 154251,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
