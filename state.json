@@ -3651,13 +3651,18 @@
         "playtime": 252,
         "name": "Librarian: Tidy Up the Arcane Library!",
         "firstPlayPosted": false
+      },
+      "5088440": {
+        "playtime": 0,
+        "name": "Rip It! Card Collector",
+        "firstPlayPosted": false
       }
     },
     "level": 20,
-    "weeklyMinutes": 16,
+    "weeklyMinutes": 0,
     "weeklyTotal": 387226,
     "weeklyTopGame": "The Witcher 2: Assassins of Kings Enhanced Edition",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198197833939": {
     "games": {
@@ -7410,7 +7415,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 36063,
+        "playtime": 36065,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -7846,8 +7851,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 432919,
+    "weeklyMinutes": 2,
+    "weeklyTotal": 432921,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9820,7 +9825,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 12,
+    "weeklyMinutes": 0,
     "weeklyTotal": 154134,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
