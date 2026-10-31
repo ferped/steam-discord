@@ -3659,7 +3659,7 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 30,
+    "weeklyMinutes": 0,
     "weeklyTotal": 387527,
     "weeklyTopGame": "Rip It! Card Collector",
     "newGames": 0
@@ -7415,7 +7415,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 36211,
+        "playtime": 36241,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -7852,7 +7852,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 433067,
+    "weeklyTotal": 433097,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
