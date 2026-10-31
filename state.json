@@ -3653,14 +3653,14 @@
         "firstPlayPosted": false
       },
       "5088440": {
-        "playtime": 60,
+        "playtime": 90,
         "name": "Rip It! Card Collector",
         "firstPlayPosted": true
       }
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 387286,
+    "weeklyTotal": 387316,
     "weeklyTopGame": "The Witcher 2: Assassins of Kings Enhanced Edition",
     "newGames": 0
   },
@@ -7415,7 +7415,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 36125,
+        "playtime": 36155,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -7852,7 +7852,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 432981,
+    "weeklyTotal": 433011,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
