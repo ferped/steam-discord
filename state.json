@@ -1362,7 +1362,7 @@
     "level": 10,
     "weeklyMinutes": 0,
     "weeklyTotal": 41273,
-    "weeklyTopGame": "PEAK",
+    "weeklyTopGame": null,
     "newGames": 0
   },
   "76561198017069362": {
@@ -3653,14 +3653,14 @@
         "firstPlayPosted": false
       },
       "5088440": {
-        "playtime": 30,
+        "playtime": 60,
         "name": "Rip It! Card Collector",
         "firstPlayPosted": true
       }
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 387256,
+    "weeklyTotal": 387286,
     "weeklyTopGame": "The Witcher 2: Assassins of Kings Enhanced Edition",
     "newGames": 0
   },
@@ -7415,7 +7415,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 36095,
+        "playtime": 36125,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -7852,7 +7852,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 432951,
+    "weeklyTotal": 432981,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9825,7 +9825,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 26,
+    "weeklyMinutes": 0,
     "weeklyTotal": 154160,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
