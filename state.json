@@ -3643,7 +3643,7 @@
         "firstPlayPosted": false
       },
       "4078430": {
-        "playtime": 35,
+        "playtime": 65,
         "name": "STAR WARS: Galactic Racer™",
         "firstPlayPosted": true
       },
@@ -3655,7 +3655,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 387180,
+    "weeklyTotal": 387210,
     "weeklyTopGame": "The Witcher 2: Assassins of Kings Enhanced Edition",
     "newGames": 0
   },
@@ -7846,7 +7846,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 24,
+    "weeklyMinutes": 0,
     "weeklyTotal": 432919,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -9820,7 +9820,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 10,
+    "weeklyMinutes": 0,
     "weeklyTotal": 154122,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
