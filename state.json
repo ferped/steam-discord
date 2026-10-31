@@ -1563,7 +1563,7 @@
         "firstPlayPosted": false
       },
       "20920": {
-        "playtime": 1674,
+        "playtime": 1688,
         "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
         "firstPlayPosted": false
       },
@@ -3642,6 +3642,11 @@
         "name": "FINAL FANTASY VII",
         "firstPlayPosted": false
       },
+      "4078430": {
+        "playtime": 0,
+        "name": "STAR WARS: Galactic Racer™",
+        "firstPlayPosted": false
+      },
       "4197610": {
         "playtime": 252,
         "name": "Librarian: Tidy Up the Arcane Library!",
@@ -3649,10 +3654,10 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 17,
-    "weeklyTotal": 387131,
+    "weeklyMinutes": 14,
+    "weeklyTotal": 387145,
     "weeklyTopGame": "The Witcher 2: Assassins of Kings Enhanced Edition",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198197833939": {
     "games": {
@@ -9815,7 +9820,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 26,
+    "weeklyMinutes": 0,
     "weeklyTotal": 154092,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
