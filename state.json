@@ -3653,14 +3653,14 @@
         "firstPlayPosted": false
       },
       "5088440": {
-        "playtime": 150,
+        "playtime": 180,
         "name": "Rip It! Card Collector",
         "firstPlayPosted": true
       }
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 387376,
+    "weeklyTotal": 387406,
     "weeklyTopGame": "Rip It! Card Collector",
     "newGames": 0
   },
@@ -9199,7 +9199,7 @@
         "firstPlayPosted": false
       },
       "1091500": {
-        "playtime": 4645,
+        "playtime": 4658,
         "name": "Cyberpunk 2077",
         "firstPlayPosted": false
       },
@@ -9825,8 +9825,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 29,
-    "weeklyTotal": 154189,
+    "weeklyMinutes": 13,
+    "weeklyTotal": 154202,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
   },
