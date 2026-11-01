@@ -7660,7 +7660,7 @@
         "firstPlayPosted": false
       },
       "2322010": {
-        "playtime": 1313,
+        "playtime": 1355,
         "name": "God of War Ragnarök",
         "firstPlayPosted": true
       },
@@ -7851,8 +7851,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 433320,
+    "weeklyMinutes": 42,
+    "weeklyTotal": 433362,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9199,7 +9199,7 @@
         "firstPlayPosted": false
       },
       "1091500": {
-        "playtime": 4879,
+        "playtime": 4899,
         "name": "Cyberpunk 2077",
         "firstPlayPosted": false
       },
@@ -9825,8 +9825,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 154423,
+    "weeklyMinutes": 20,
+    "weeklyTotal": 154443,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
   },
