@@ -1204,7 +1204,7 @@
         "firstPlayPosted": false
       },
       "1478500": {
-        "playtime": 90,
+        "playtime": 120,
         "name": "Big Walk",
         "firstPlayPosted": true
       },
@@ -1361,7 +1361,7 @@
     },
     "level": 10,
     "weeklyMinutes": 30,
-    "weeklyTotal": 41363,
+    "weeklyTotal": 41393,
     "weeklyTopGame": "Big Walk",
     "newGames": 0
   },
@@ -3398,7 +3398,7 @@
         "firstPlayPosted": false
       },
       "1478500": {
-        "playtime": 90,
+        "playtime": 120,
         "name": "Big Walk",
         "firstPlayPosted": true
       },
@@ -3660,7 +3660,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 387683,
+    "weeklyTotal": 387713,
     "weeklyTopGame": "Rip It! Card Collector",
     "newGames": 0
   },
@@ -7445,7 +7445,7 @@
         "firstPlayPosted": false
       },
       "1478500": {
-        "playtime": 90,
+        "playtime": 120,
         "name": "Big Walk",
         "firstPlayPosted": true
       },
@@ -7852,7 +7852,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 434043,
+    "weeklyTotal": 434073,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9199,7 +9199,7 @@
         "firstPlayPosted": false
       },
       "1091500": {
-        "playtime": 5695,
+        "playtime": 5702,
         "name": "Cyberpunk 2077",
         "firstPlayPosted": false
       },
@@ -9825,8 +9825,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 35,
-    "weeklyTotal": 155239,
+    "weeklyMinutes": 7,
+    "weeklyTotal": 155246,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
   },
