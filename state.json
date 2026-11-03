@@ -1204,9 +1204,9 @@
         "firstPlayPosted": false
       },
       "1478500": {
-        "playtime": 0,
+        "playtime": 30,
         "name": "Big Walk",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "1507190": {
         "playtime": 0,
@@ -1360,9 +1360,9 @@
       }
     },
     "level": 10,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 41273,
-    "weeklyTopGame": null,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 41303,
+    "weeklyTopGame": "Big Walk",
     "newGames": 0
   },
   "76561198017069362": {
@@ -3398,9 +3398,9 @@
         "firstPlayPosted": false
       },
       "1478500": {
-        "playtime": 0,
+        "playtime": 30,
         "name": "Big Walk",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "1488200": {
         "playtime": 0,
@@ -3659,8 +3659,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 387593,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 387623,
     "weeklyTopGame": "Rip It! Card Collector",
     "newGames": 0
   },
@@ -7445,9 +7445,9 @@
         "firstPlayPosted": false
       },
       "1478500": {
-        "playtime": 0,
+        "playtime": 30,
         "name": "Big Walk",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "1486630": {
         "playtime": 0,
@@ -7851,8 +7851,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 22,
-    "weeklyTotal": 433953,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 433983,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
