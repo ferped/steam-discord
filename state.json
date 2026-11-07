@@ -9199,7 +9199,7 @@
         "firstPlayPosted": false
       },
       "1091500": {
-        "playtime": 6016,
+        "playtime": 6024,
         "name": "Cyberpunk 2077",
         "firstPlayPosted": false
       },
@@ -9825,8 +9825,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 155560,
+    "weeklyMinutes": 8,
+    "weeklyTotal": 155568,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
   },
