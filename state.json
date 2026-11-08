@@ -7415,7 +7415,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 38064,
+        "playtime": 38094,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -7851,8 +7851,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 435314,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 435344,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9619,7 +9619,7 @@
         "firstPlayPosted": true
       },
       "3070070": {
-        "playtime": 1628,
+        "playtime": 1658,
         "name": "TCG Card Shop Simulator",
         "firstPlayPosted": false
       },
@@ -9825,8 +9825,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 155961,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 155991,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
   },
