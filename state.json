@@ -7660,7 +7660,7 @@
         "firstPlayPosted": false
       },
       "2322010": {
-        "playtime": 1465,
+        "playtime": 1495,
         "name": "God of War Ragnarök",
         "firstPlayPosted": true
       },
@@ -7852,7 +7852,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 435241,
+    "weeklyTotal": 435271,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9619,7 +9619,7 @@
         "firstPlayPosted": true
       },
       "3070070": {
-        "playtime": 1527,
+        "playtime": 1538,
         "name": "TCG Card Shop Simulator",
         "firstPlayPosted": false
       },
@@ -9825,8 +9825,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 5,
-    "weeklyTotal": 155860,
+    "weeklyMinutes": 11,
+    "weeklyTotal": 155871,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
   },
