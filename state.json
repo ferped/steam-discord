@@ -1361,7 +1361,7 @@
     },
     "level": 10,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 41410,
     "weeklyTopGame": "Big Walk",
     "newGames": 0
   },
@@ -3660,7 +3660,7 @@
     },
     "level": 20,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 387731,
     "weeklyTopGame": "Rip It! Card Collector",
     "newGames": 0
   },
@@ -4864,7 +4864,7 @@
     },
     "level": 16,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 0,
     "weeklyTopGame": null,
     "newGames": 0
   },
@@ -7852,7 +7852,7 @@
     },
     "level": 29,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 435314,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9619,7 +9619,7 @@
         "firstPlayPosted": true
       },
       "3070070": {
-        "playtime": 1601,
+        "playtime": 1628,
         "name": "TCG Card Shop Simulator",
         "firstPlayPosted": false
       },
@@ -9826,7 +9826,7 @@
     },
     "level": 31,
     "weeklyMinutes": 0,
-    "weeklyTotal": null,
+    "weeklyTotal": 155961,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
   },
