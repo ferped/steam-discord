@@ -1204,7 +1204,7 @@
         "firstPlayPosted": false
       },
       "1478500": {
-        "playtime": 167,
+        "playtime": 197,
         "name": "Big Walk",
         "firstPlayPosted": true
       },
@@ -1361,7 +1361,7 @@
     },
     "level": 10,
     "weeklyMinutes": 30,
-    "weeklyTotal": 41382,
+    "weeklyTotal": 41412,
     "weeklyTopGame": "Big Walk",
     "newGames": 0
   },
@@ -3398,7 +3398,7 @@
         "firstPlayPosted": false
       },
       "1478500": {
-        "playtime": 170,
+        "playtime": 200,
         "name": "Big Walk",
         "firstPlayPosted": true
       },
@@ -3660,7 +3660,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 387763,
+    "weeklyTotal": 387793,
     "weeklyTopGame": "Rip It! Card Collector",
     "newGames": 0
   },
@@ -7445,7 +7445,7 @@
         "firstPlayPosted": false
       },
       "1478500": {
-        "playtime": 169,
+        "playtime": 199,
         "name": "Big Walk",
         "firstPlayPosted": true
       },
@@ -7852,7 +7852,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 435783,
+    "weeklyTotal": 435813,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
