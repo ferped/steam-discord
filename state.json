@@ -3398,7 +3398,7 @@
         "firstPlayPosted": false
       },
       "1478500": {
-        "playtime": 138,
+        "playtime": 140,
         "name": "Big Walk",
         "firstPlayPosted": true
       },
@@ -3659,8 +3659,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 387731,
+    "weeklyMinutes": 2,
+    "weeklyTotal": 387733,
     "weeklyTopGame": "Rip It! Card Collector",
     "newGames": 0
   },
@@ -8709,7 +8709,7 @@
         "firstPlayPosted": false
       },
       "337000": {
-        "playtime": 1492,
+        "playtime": 1499,
         "name": "Deus Ex: Mankind Divided™",
         "firstPlayPosted": false
       },
@@ -9825,8 +9825,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 34,
-    "weeklyTotal": 156594,
+    "weeklyMinutes": 7,
+    "weeklyTotal": 156601,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
   },
