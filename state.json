@@ -7415,7 +7415,7 @@
         "firstPlayPosted": false
       },
       "1422450": {
-        "playtime": 38639,
+        "playtime": 38669,
         "name": "Deadlock",
         "firstPlayPosted": false
       },
@@ -7851,8 +7851,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 32,
-    "weeklyTotal": 436124,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 436154,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9674,7 +9674,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 3155,
+        "playtime": 3161,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9825,8 +9825,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 156776,
+    "weeklyMinutes": 6,
+    "weeklyTotal": 156782,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
   },
