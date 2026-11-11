@@ -1204,7 +1204,7 @@
         "firstPlayPosted": false
       },
       "1478500": {
-        "playtime": 317,
+        "playtime": 371,
         "name": "Big Walk",
         "firstPlayPosted": true
       },
@@ -1360,8 +1360,8 @@
       }
     },
     "level": 10,
-    "weeklyMinutes": 29,
-    "weeklyTotal": 41532,
+    "weeklyMinutes": 54,
+    "weeklyTotal": 41586,
     "weeklyTopGame": "Big Walk",
     "newGames": 0
   },
@@ -3398,7 +3398,7 @@
         "firstPlayPosted": false
       },
       "1478500": {
-        "playtime": 321,
+        "playtime": 373,
         "name": "Big Walk",
         "firstPlayPosted": true
       },
@@ -3659,8 +3659,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 387914,
+    "weeklyMinutes": 52,
+    "weeklyTotal": 387966,
     "weeklyTopGame": "Big Walk",
     "newGames": 0
   },
@@ -7445,7 +7445,7 @@
         "firstPlayPosted": false
       },
       "1478500": {
-        "playtime": 320,
+        "playtime": 374,
         "name": "Big Walk",
         "firstPlayPosted": true
       },
@@ -7851,8 +7851,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 31,
-    "weeklyTotal": 435934,
+    "weeklyMinutes": 54,
+    "weeklyTotal": 435988,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -8709,7 +8709,7 @@
         "firstPlayPosted": false
       },
       "337000": {
-        "playtime": 1559,
+        "playtime": 1593,
         "name": "Deus Ex: Mankind Divided™",
         "firstPlayPosted": false
       },
@@ -9825,8 +9825,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 156661,
+    "weeklyMinutes": 34,
+    "weeklyTotal": 156695,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
   },
