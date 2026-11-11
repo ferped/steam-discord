@@ -9769,7 +9769,7 @@
         "firstPlayPosted": true
       },
       "4195110": {
-        "playtime": 4204,
+        "playtime": 4231,
         "name": "Ultrapool",
         "firstPlayPosted": true
       },
@@ -9825,8 +9825,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 156789,
+    "weeklyMinutes": 27,
+    "weeklyTotal": 156816,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
   },
