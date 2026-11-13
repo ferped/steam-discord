@@ -8709,7 +8709,7 @@
         "firstPlayPosted": false
       },
       "337000": {
-        "playtime": 2092,
+        "playtime": 2112,
         "name": "Deus Ex: Mankind Divided™",
         "firstPlayPosted": false
       },
@@ -9825,8 +9825,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 16,
-    "weeklyTotal": 157397,
+    "weeklyMinutes": 20,
+    "weeklyTotal": 157417,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
   },
