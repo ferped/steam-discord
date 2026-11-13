@@ -9583,6 +9583,11 @@
         "name": "Denshattack!",
         "firstPlayPosted": true
       },
+      "2536520": {
+        "playtime": 0,
+        "name": "Diablo II: Resurrected – Infernal Edition",
+        "firstPlayPosted": false
+      },
       "2543510": {
         "playtime": 0,
         "name": "GUNTOUCHABLES",
@@ -9828,7 +9833,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 157488,
     "weeklyTopGame": "Cyberpunk 2077",
-    "newGames": 0
+    "newGames": 1
   },
   "steamSales": {},
   "sales": {},
