@@ -1360,7 +1360,7 @@
       }
     },
     "level": 10,
-    "weeklyMinutes": 54,
+    "weeklyMinutes": 0,
     "weeklyTotal": 41850,
     "weeklyTopGame": "Big Walk",
     "newGames": 0
@@ -3659,7 +3659,7 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 55,
+    "weeklyMinutes": 0,
     "weeklyTotal": 388231,
     "weeklyTopGame": "Big Walk",
     "newGames": 0
@@ -7851,7 +7851,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 56,
+    "weeklyMinutes": 0,
     "weeklyTotal": 436520,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
@@ -8709,7 +8709,7 @@
         "firstPlayPosted": false
       },
       "337000": {
-        "playtime": 1776,
+        "playtime": 1806,
         "name": "Deus Ex: Mankind Divided™",
         "firstPlayPosted": false
       },
@@ -9826,7 +9826,7 @@
     },
     "level": 31,
     "weeklyMinutes": 30,
-    "weeklyTotal": 157081,
+    "weeklyTotal": 157111,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
   },
