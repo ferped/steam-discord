@@ -9584,9 +9584,9 @@
         "firstPlayPosted": true
       },
       "2536520": {
-        "playtime": 0,
+        "playtime": 20,
         "name": "Diablo II: Resurrected – Infernal Edition",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "2543510": {
         "playtime": 0,
@@ -9830,8 +9830,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 157513,
+    "weeklyMinutes": 20,
+    "weeklyTotal": 157533,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
   },
