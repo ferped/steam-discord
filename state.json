@@ -7660,7 +7660,7 @@
         "firstPlayPosted": false
       },
       "2322010": {
-        "playtime": 1568,
+        "playtime": 1598,
         "name": "God of War Ragnarök",
         "firstPlayPosted": true
       },
@@ -7852,7 +7852,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 436828,
+    "weeklyTotal": 436858,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9679,7 +9679,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 3273,
+        "playtime": 3306,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9830,8 +9830,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 157710,
+    "weeklyMinutes": 33,
+    "weeklyTotal": 157743,
     "weeklyTopGame": "Cyberpunk 2077",
     "newGames": 0
   },
