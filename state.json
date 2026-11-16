@@ -3663,16 +3663,16 @@
         "firstPlayPosted": true
       },
       "5200620": {
-        "playtime": 0,
+        "playtime": 30,
         "name": "Dungeonbound",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       }
     },
     "level": 20,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 388231,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 388261,
     "weeklyTopGame": "Big Walk",
-    "newGames": 1
+    "newGames": 0
   },
   "76561198197833939": {
     "games": {
