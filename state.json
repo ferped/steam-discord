@@ -1353,6 +1353,11 @@
         "name": "PEAK",
         "firstPlayPosted": false
       },
+      "3687090": {
+        "playtime": 0,
+        "name": "Dice Hoarder",
+        "firstPlayPosted": false
+      },
       "4001890": {
         "playtime": 285,
         "name": "How to Fish",
@@ -1363,7 +1368,7 @@
     "weeklyMinutes": 0,
     "weeklyTotal": 41850,
     "weeklyTopGame": "Big Walk",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198017069362": {
     "games": {
