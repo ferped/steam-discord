@@ -3661,13 +3661,18 @@
         "playtime": 301,
         "name": "Rip It! Card Collector",
         "firstPlayPosted": true
+      },
+      "5200620": {
+        "playtime": 0,
+        "name": "Dungeonbound",
+        "firstPlayPosted": false
       }
     },
     "level": 20,
     "weeklyMinutes": 0,
     "weeklyTotal": 388231,
     "weeklyTopGame": "Big Walk",
-    "newGames": 0
+    "newGames": 1
   },
   "76561198197833939": {
     "games": {
