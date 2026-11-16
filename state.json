@@ -3663,14 +3663,14 @@
         "firstPlayPosted": true
       },
       "5200620": {
-        "playtime": 90,
+        "playtime": 120,
         "name": "Dungeonbound",
         "firstPlayPosted": true
       }
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 388321,
+    "weeklyTotal": 388351,
     "weeklyTopGame": "Big Walk",
     "newGames": 0
   },
@@ -9594,7 +9594,7 @@
         "firstPlayPosted": true
       },
       "2536520": {
-        "playtime": 204,
+        "playtime": 210,
         "name": "Diablo II: Resurrected – Infernal Edition",
         "firstPlayPosted": true
       },
@@ -9840,8 +9840,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 36,
-    "weeklyTotal": 157853,
+    "weeklyMinutes": 6,
+    "weeklyTotal": 157859,
     "weeklyTopGame": "Deus Ex: Mankind Divided™",
     "newGames": 0
   },
