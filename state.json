@@ -9594,7 +9594,7 @@
         "firstPlayPosted": true
       },
       "2536520": {
-        "playtime": 210,
+        "playtime": 217,
         "name": "Diablo II: Resurrected – Infernal Edition",
         "firstPlayPosted": true
       },
@@ -9689,7 +9689,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 3321,
+        "playtime": 3333,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9840,8 +9840,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 15,
-    "weeklyTotal": 157874,
+    "weeklyMinutes": 19,
+    "weeklyTotal": 157893,
     "weeklyTopGame": "Deus Ex: Mankind Divided™",
     "newGames": 0
   },
