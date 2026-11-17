@@ -1204,7 +1204,7 @@
         "firstPlayPosted": false
       },
       "1478500": {
-        "playtime": 665,
+        "playtime": 695,
         "name": "Big Walk",
         "firstPlayPosted": true
       },
@@ -1366,7 +1366,7 @@
     },
     "level": 10,
     "weeklyMinutes": 30,
-    "weeklyTotal": 41880,
+    "weeklyTotal": 41910,
     "weeklyTopGame": "Big Walk",
     "newGames": 0
   },
@@ -3403,7 +3403,7 @@
         "firstPlayPosted": false
       },
       "1478500": {
-        "playtime": 668,
+        "playtime": 698,
         "name": "Big Walk",
         "firstPlayPosted": true
       },
@@ -3670,7 +3670,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 388420,
+    "weeklyTotal": 388450,
     "weeklyTopGame": "Big Walk",
     "newGames": 0
   },
@@ -7455,7 +7455,7 @@
         "firstPlayPosted": false
       },
       "1478500": {
-        "playtime": 670,
+        "playtime": 700,
         "name": "Big Walk",
         "firstPlayPosted": true
       },
@@ -7862,7 +7862,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 436989,
+    "weeklyTotal": 437019,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
