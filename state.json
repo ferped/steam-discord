@@ -9689,7 +9689,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 3333,
+        "playtime": 3360,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9840,8 +9840,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 157678,
+    "weeklyMinutes": 27,
+    "weeklyTotal": 157705,
     "weeklyTopGame": "Deus Ex: Mankind Divided™",
     "newGames": 0
   },
