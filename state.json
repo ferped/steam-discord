@@ -9594,7 +9594,7 @@
         "firstPlayPosted": true
       },
       "2536520": {
-        "playtime": 217,
+        "playtime": 225,
         "name": "Diablo II: Resurrected – Infernal Edition",
         "firstPlayPosted": true
       },
@@ -9614,7 +9614,7 @@
         "firstPlayPosted": false
       },
       "2868840": {
-        "playtime": 954,
+        "playtime": 956,
         "name": "Slay the Spire 2",
         "firstPlayPosted": false
       },
@@ -9840,8 +9840,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 157893,
+    "weeklyMinutes": 10,
+    "weeklyTotal": 157903,
     "weeklyTopGame": "Deus Ex: Mankind Divided™",
     "newGames": 0
   },
