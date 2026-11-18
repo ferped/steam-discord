@@ -1204,7 +1204,7 @@
         "firstPlayPosted": false
       },
       "1478500": {
-        "playtime": 785,
+        "playtime": 815,
         "name": "Big Walk",
         "firstPlayPosted": true
       },
@@ -1365,8 +1365,8 @@
       }
     },
     "level": 10,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 42000,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 42030,
     "weeklyTopGame": "Big Walk",
     "newGames": 0
   },
@@ -3403,7 +3403,7 @@
         "firstPlayPosted": false
       },
       "1478500": {
-        "playtime": 789,
+        "playtime": 819,
         "name": "Big Walk",
         "firstPlayPosted": true
       },
@@ -3669,8 +3669,8 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 1,
-    "weeklyTotal": 388541,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 388571,
     "weeklyTopGame": "Big Walk",
     "newGames": 0
   },
@@ -7455,7 +7455,7 @@
         "firstPlayPosted": false
       },
       "1478500": {
-        "playtime": 790,
+        "playtime": 820,
         "name": "Big Walk",
         "firstPlayPosted": true
       },
@@ -7861,8 +7861,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 437109,
+    "weeklyMinutes": 30,
+    "weeklyTotal": 437139,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9579,9 +9579,9 @@
         "firstPlayPosted": false
       },
       "2400510": {
-        "playtime": 0,
+        "playtime": 12,
         "name": "Dungeons & Degenerate Gamblers",
-        "firstPlayPosted": false
+        "firstPlayPosted": true
       },
       "2442460": {
         "playtime": 0,
@@ -9855,10 +9855,10 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 6,
-    "weeklyTotal": 157711,
+    "weeklyMinutes": 12,
+    "weeklyTotal": 157723,
     "weeklyTopGame": "Deus Ex: Mankind Divided™",
-    "newGames": 3
+    "newGames": 0
   },
   "steamSales": {},
   "sales": {},
