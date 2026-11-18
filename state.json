@@ -1349,7 +1349,7 @@
         "firstPlayPosted": false
       },
       "3527290": {
-        "playtime": 1156,
+        "playtime": 1167,
         "name": "PEAK",
         "firstPlayPosted": false
       },
@@ -1365,8 +1365,8 @@
       }
     },
     "level": 10,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 42240,
+    "weeklyMinutes": 11,
+    "weeklyTotal": 42251,
     "weeklyTopGame": "Big Walk",
     "newGames": 0
   },
@@ -7830,7 +7830,7 @@
         "firstPlayPosted": false
       },
       "3527290": {
-        "playtime": 1574,
+        "playtime": 1585,
         "name": "PEAK",
         "firstPlayPosted": false
       },
@@ -7861,8 +7861,8 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 437355,
+    "weeklyMinutes": 11,
+    "weeklyTotal": 437366,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
