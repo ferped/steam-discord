@@ -1365,7 +1365,7 @@
       }
     },
     "level": 10,
-    "weeklyMinutes": 27,
+    "weeklyMinutes": 0,
     "weeklyTotal": 42087,
     "weeklyTopGame": "Big Walk",
     "newGames": 0
@@ -3669,7 +3669,7 @@
       }
     },
     "level": 20,
-    "weeklyMinutes": 23,
+    "weeklyMinutes": 0,
     "weeklyTotal": 388624,
     "weeklyTopGame": "Big Walk",
     "newGames": 0
@@ -7861,7 +7861,7 @@
       }
     },
     "level": 29,
-    "weeklyMinutes": 23,
+    "weeklyMinutes": 0,
     "weeklyTotal": 437192,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
