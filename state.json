@@ -1204,7 +1204,7 @@
         "firstPlayPosted": false
       },
       "1478500": {
-        "playtime": 815,
+        "playtime": 845,
         "name": "Big Walk",
         "firstPlayPosted": true
       },
@@ -1366,7 +1366,7 @@
     },
     "level": 10,
     "weeklyMinutes": 30,
-    "weeklyTotal": 42030,
+    "weeklyTotal": 42060,
     "weeklyTopGame": "Big Walk",
     "newGames": 0
   },
@@ -3403,7 +3403,7 @@
         "firstPlayPosted": false
       },
       "1478500": {
-        "playtime": 819,
+        "playtime": 849,
         "name": "Big Walk",
         "firstPlayPosted": true
       },
@@ -3670,7 +3670,7 @@
     },
     "level": 20,
     "weeklyMinutes": 30,
-    "weeklyTotal": 388571,
+    "weeklyTotal": 388601,
     "weeklyTopGame": "Big Walk",
     "newGames": 0
   },
@@ -7455,7 +7455,7 @@
         "firstPlayPosted": false
       },
       "1478500": {
-        "playtime": 820,
+        "playtime": 850,
         "name": "Big Walk",
         "firstPlayPosted": true
       },
@@ -7862,7 +7862,7 @@
     },
     "level": 29,
     "weeklyMinutes": 30,
-    "weeklyTotal": 437139,
+    "weeklyTotal": 437169,
     "weeklyTopGame": "Deadlock",
     "newGames": 0
   },
@@ -9855,7 +9855,7 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 12,
+    "weeklyMinutes": 0,
     "weeklyTotal": 157723,
     "weeklyTopGame": "Deus Ex: Mankind Divided™",
     "newGames": 0
