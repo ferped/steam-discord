@@ -9804,7 +9804,7 @@
         "firstPlayPosted": true
       },
       "4195110": {
-        "playtime": 4286,
+        "playtime": 4329,
         "name": "Ultrapool",
         "firstPlayPosted": true
       },
@@ -9860,8 +9860,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 157723,
+    "weeklyMinutes": 43,
+    "weeklyTotal": 157766,
     "weeklyTopGame": "Deus Ex: Mankind Divided™",
     "newGames": 0
   },
