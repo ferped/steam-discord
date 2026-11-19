@@ -7934,7 +7934,7 @@
         "firstPlayPosted": false
       },
       "6910": {
-        "playtime": 25,
+        "playtime": 35,
         "name": "Deus Ex: Game of the Year Edition",
         "firstPlayPosted": false
       },
@@ -9704,7 +9704,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 3497,
+        "playtime": 3514,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9860,8 +9860,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 30,
-    "weeklyTotal": 157897,
+    "weeklyMinutes": 27,
+    "weeklyTotal": 157924,
     "weeklyTopGame": "Deus Ex: Mankind Divided™",
     "newGames": 0
   },
