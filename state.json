@@ -1366,7 +1366,7 @@
     },
     "level": 10,
     "weeklyMinutes": 0,
-    "weeklyTotal": 42184,
+    "weeklyTotal": 42004,
     "weeklyTopGame": "Big Walk",
     "newGames": 0
   },
@@ -9704,7 +9704,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 3514,
+        "playtime": 3543,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9860,8 +9860,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 157961,
+    "weeklyMinutes": 29,
+    "weeklyTotal": 157990,
     "weeklyTopGame": "Deus Ex: Mankind Divided™",
     "newGames": 0
   },
