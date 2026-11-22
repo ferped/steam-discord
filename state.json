@@ -8333,6 +8333,11 @@
         "name": "Don't Starve",
         "firstPlayPosted": false
       },
+      "219990": {
+        "playtime": 0,
+        "name": "Grim Dawn",
+        "firstPlayPosted": false
+      },
       "221040": {
         "playtime": 495,
         "name": "Resident Evil 6",
@@ -9704,7 +9709,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 3618,
+        "playtime": 3649,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9860,10 +9865,10 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 158065,
+    "weeklyMinutes": 31,
+    "weeklyTotal": 158096,
     "weeklyTopGame": "Deus Ex: Mankind Divided™",
-    "newGames": 0
+    "newGames": 1
   },
   "steamSales": {},
   "sales": {},
