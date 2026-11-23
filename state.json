@@ -8334,7 +8334,7 @@
         "firstPlayPosted": false
       },
       "219990": {
-        "playtime": 450,
+        "playtime": 496,
         "name": "Grim Dawn",
         "firstPlayPosted": true
       },
@@ -9865,8 +9865,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 158546,
+    "weeklyMinutes": 46,
+    "weeklyTotal": 158592,
     "weeklyTopGame": "Deus Ex: Mankind Divided™",
     "newGames": 0
   },
