@@ -9809,7 +9809,7 @@
         "firstPlayPosted": true
       },
       "4195110": {
-        "playtime": 4366,
+        "playtime": 4381,
         "name": "Ultrapool",
         "firstPlayPosted": true
       },
@@ -9865,8 +9865,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 31,
-    "weeklyTotal": 158943,
+    "weeklyMinutes": 15,
+    "weeklyTotal": 158958,
     "weeklyTopGame": "Grim Dawn",
     "newGames": 0
   },
