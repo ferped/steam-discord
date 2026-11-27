@@ -9709,7 +9709,7 @@
         "firstPlayPosted": false
       },
       "3430340": {
-        "playtime": 3778,
+        "playtime": 3789,
         "name": "Dice A Million",
         "firstPlayPosted": false
       },
@@ -9865,8 +9865,8 @@
       }
     },
     "level": 31,
-    "weeklyMinutes": 0,
-    "weeklyTotal": 159044,
+    "weeklyMinutes": 11,
+    "weeklyTotal": 159055,
     "weeklyTopGame": "Grim Dawn",
     "newGames": 0
   },
